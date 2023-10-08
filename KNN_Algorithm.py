@@ -1,5 +1,6 @@
 """ Adreanna LaPorte
-    ITP-449
+    ITP-449 
+    Applications of Machine Learning
     Final Project
     KNN - Wine Quality Classification
 """
