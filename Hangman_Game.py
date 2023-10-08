@@ -1,9 +1,6 @@
-"""
-Adreanna LaPorte
-ISE 150, Spring 2019
-alaporte@usc.edu
-hw 7
-"""
+
+# This is a hangman game I created in Python! 
+
 import random
 
 
