@@ -15,7 +15,6 @@ This repository demonstrates some of my experience working with Python and R.
 I am comfortable working with large datasets and utiltizing various packages to conduct statistical analyses and gather conclusions. 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/>
 Projects in Python:
 - KNN
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/KNN_Algorithm.py
@@ -30,7 +29,6 @@ Projects in Python:
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/More_Python/Senior_Design_Project.py
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="php" width="45" height="45"/>
 Projects in R:
 - Linear Regression
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/Statistics_R/Linear_Regression.R
