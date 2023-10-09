@@ -1,4 +1,4 @@
-# Hi! My name is Adreanna LaPorte
+Hi! My name is Adreanna LaPorte :)
 
 <img src="https://media.giphy.com/media/LoX8yc1ngPCvu/giphy.gif" width="480" height="283" />
 
