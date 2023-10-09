@@ -1,7 +1,6 @@
 # Hi! My name is Adreanna LaPorte
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-<iframe src="https://giphy.com/embed/LoX8yc1ngPCvu" width="480" height="283" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hair-comment-mate-LoX8yc1ngPCvu">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="480" height="283" />
 
 I am a young data professional seeking new opportunities in Data Analytics. 
 I have industry experience working with Python, SQL, Tableau, and academic exposure to R and MATLAB. 
