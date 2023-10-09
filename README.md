@@ -1,4 +1,4 @@
-# Adreanna LaPorte - Programming Projects
+## Adreanna LaPorte - Programming Projects
 Hi! My name is Adreanna LaPorte
 
 I am a young data professional seeking new opportunities in Data Analytics. 
@@ -9,9 +9,7 @@ This repository demonstrates some of my experience working with Python and R.
 I am comfortable working with large datasets and utiltizing various packages to conduct statistical analyses and gather conclusions. 
 
 
-Projects:
-
-Projects in Python:
+# Projects in Python:
 - KNN
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/KNN_Algorithm.py
 - Linear Regression
@@ -25,7 +23,7 @@ Projects in Python:
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/More_Python/Senior_Design_Project.py
 
 
-Projects in R:
+# Projects in R:
 - Linear Regression
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/Statistics_R/Linear_Regression.R
 - Logistic Regression
