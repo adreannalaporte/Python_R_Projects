@@ -16,6 +16,7 @@ I am comfortable working with large datasets and utiltizing various packages to 
 
 
 # Projects in Python:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/>
 - KNN
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/KNN_Algorithm.py
 - Linear Regression
@@ -30,6 +31,7 @@ I am comfortable working with large datasets and utiltizing various packages to 
 
 
 # Projects in R:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="php" width="45" height="45"/>
 - Linear Regression
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/Statistics_R/Linear_Regression.R
 - Logistic Regression
