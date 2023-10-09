@@ -1,6 +1,6 @@
-Hi! My name is Adreanna LaPorte :)
+Hi! My name is Adreanna LaPorte, welcome to my GitHub!
 
-<img src="https://media.giphy.com/media/LoX8yc1ngPCvu/giphy.gif" width="480" height="283" />
+<img src="https://media.giphy.com/media/LoX8yc1ngPCvu/giphy.gif" width="280" height="183" />
 
 I am a young data professional seeking new opportunities in Data Analytics. 
 
