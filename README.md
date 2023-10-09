@@ -2,9 +2,9 @@ Hi! My name is Adreanna LaPorte, welcome to my GitHub!
 
 <img src="https://media.giphy.com/media/LoX8yc1ngPCvu/giphy.gif" width="280" height="183" />
 
-I am a young data professional seeking new opportunities in Data Analytics. 
+I am a young data professional seeking new opportunities in Data Analytics and Data Science.
 
-I have industry experience working with Python, SQL, Tableau, and academic exposure to R and MATLAB. 
+I have industry experience working with Python, SQL, Tableau, along with academic exposure to R and MATLAB. 
 
 This repository demonstrates some of my experience working with Python and R. 
 
