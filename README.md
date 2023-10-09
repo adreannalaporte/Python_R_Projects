@@ -6,6 +6,10 @@ I am a young data professional seeking new opportunities in Data Analytics.
 
 I have industry experience working with Python, SQL, Tableau, and academic exposure to R and MATLAB. 
 
+This repository demonstrates some of my experience working with Python and R. 
+
+I am comfortable working with large datasets and utiltizing various packages to conduct statistical analyses and gather conclusions.
+
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="php" width="45" height="45"/>
@@ -15,10 +19,7 @@ I have industry experience working with Python, SQL, Tableau, and academic expos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="php" width="45" height="45"/>
           
 </p>
-          
-
-This repository demonstrates some of my experience working with Python and R. 
-I am comfortable working with large datasets and utiltizing various packages to conduct statistical analyses and gather conclusions. 
+           
 
 
 Projects in Python:
