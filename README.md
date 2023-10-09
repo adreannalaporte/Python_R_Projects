@@ -4,7 +4,7 @@
 
 I am a young data professional seeking new opportunities in Data Analytics and Data Science.
 
-I have industry experience working with Python, SQL, Tableau, along with academic exposure to R and MATLAB. 
+I have industry experience working with *Python, SQL, Tableau*, along with academic exposure to *R* and MATLAB. 
 
 This repository demonstrates some of my experience working with Python and R. 
 
@@ -22,7 +22,7 @@ I am comfortable working with large datasets and utiltizing various packages to 
            
 
 
-Projects in Python:
+### Projects in Python:
 - KNN
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/KNN_Algorithm.py
 - Linear Regression
@@ -36,7 +36,7 @@ Projects in Python:
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/More_Python/Senior_Design_Project.py
 
 
-Projects in R:
+### Projects in R:
 - Linear Regression
   - https://github.com/adreannalaporte/Python_R_Projects/blob/main/Statistics_R/Linear_Regression.R
 - Logistic Regression
