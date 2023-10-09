@@ -9,9 +9,26 @@ This repository demonstrates some of my experience working with Python and R.
 I am comfortable working with large datasets and utiltizing various packages to conduct statistical analyses and gather conclusions. 
 
 
-Project Concepts:
+Projects:
+
+Projects in Python:
 - KNN
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/KNN_Algorithm.py
 - Linear Regression
-- Logisitic Regression
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/Linear_Regression.py
 - Decision Trees
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/Decision_Trees.py
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/Decision_Trees_2.py
+- Hangman Game
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/More_Python/Hangman_Game.py
+- Senior Design Project:
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/More_Python/Senior_Design_Project.py
+
+
+Projects in R:
+- Linear Regression
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/Statistics_R/Linear_Regression.R
+- Logistic Regression
+  - https://github.com/adreannalaporte/Python_R_Projects/blob/main/Statistics_R/Logistic_Regression.R
+
   
