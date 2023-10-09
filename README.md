@@ -1,4 +1,4 @@
-Hi! My name is Adreanna LaPorte, welcome to my GitHub!
+## Hi! My name is Adreanna LaPorte, welcome to my GitHub!
 
 <img src="https://media.giphy.com/media/LoX8yc1ngPCvu/giphy.gif" width="280" height="183" />
 
