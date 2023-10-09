@@ -3,6 +3,7 @@
 <img src="https://media.giphy.com/media/LoX8yc1ngPCvu/giphy.gif" width="480" height="283" />
 
 I am a young data professional seeking new opportunities in Data Analytics. 
+
 I have industry experience working with Python, SQL, Tableau, and academic exposure to R and MATLAB. 
 
 
