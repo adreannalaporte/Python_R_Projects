@@ -1,7 +1,5 @@
 <p align="center">
-## Adreanna LaPorte - Programming Projects
-Hi! My name is Adreanna LaPorte
-
+# Hi! My name is Adreanna LaPorte
 
 I am a young data professional seeking new opportunities in Data Analytics. 
 I have industry experience working with Python, SQL, Tableau, and academic exposure to R and MATLAB. 
