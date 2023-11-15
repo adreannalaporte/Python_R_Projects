@@ -21,8 +21,8 @@ This repository demonstrates some of my experience working with Python and R. I 
 
 
 ### Projects in Python:
-- **AB Test**
-- [Code](https://github.com/adreannalaporte/Python_R_Projects/blob/main/AB_Test/AB_Test_Python_Script.py)
+- **AB Test Script**
+  - [Code](https://github.com/adreannalaporte/Python_R_Projects/blob/main/AB_Test/AB_Test_Python_Script.py)
   
 - **KNN**
   - [Code](https://github.com/adreannalaporte/Python_R_Projects/blob/main/ML/KNN_Algorithm.py) & Output:
