@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/LoX8yc1ngPCvu/giphy.gif" width="280" height="183" />
 
-I am a young data professional seeking new opportunities in Data Analytics and Data Science.
+I am a data professional seeking new opportunities in Analytics Engineering and Data Science.
 
 I have industry experience working with **Python, SQL, Tableau**, along with academic exposure to **R** and MATLAB. 
 
