@@ -29,7 +29,7 @@ This makes n_before/n_after ~ N (unless we run out of data).
 # =============================
 # USER INPUTS (edit these)
 # =============================
-CSV_PATH = "/Users/adreannalaporte/Desktop/funnel_metrics_data_full_app.csv"
+CSV_PATH = "***/funnel_metrics_data_full_app.csv"
 
 DATE_COL = "Event Date"
 
@@ -63,7 +63,7 @@ EXCLUDE_BUFFER_DAYS = 1   # excludes +/- this many days around release date
 
 # Optional: write results to CSV
 WRITE_OUTPUT = True
-OUTPUT_PATH = "/Users/adreannalaporte/Desktop/release_impacts_out_NEW.csv"
+OUTPUT_PATH = "***/release_impacts_out_NEW.csv"
 #%%
 # -----------------------------
 # Helpers
